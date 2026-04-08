@@ -77,7 +77,7 @@ export const USM_DATA: USMUnit[] = [
     urbanZones: [
       "Alcora la Foia",
       "Barranquet",
-      "Bostillos",
+      "Rosildos",
       "Illes Columbretes",
       "Universitat-Raval",
     ],
