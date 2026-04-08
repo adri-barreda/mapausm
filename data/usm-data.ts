@@ -69,6 +69,7 @@ export const USM_DATA: USMUnit[] = [
       "Vilafamés",
       "Vilanova d'Alcolea",
       "Villahermosa del Río",
+      "Torreblanca",
       "Vistabella del Maestrat",
       "Xodos",
       "Zucaina",
@@ -76,6 +77,7 @@ export const USM_DATA: USMUnit[] = [
     urbanZones: [
       "Alcora la Foia",
       "Barranquet",
+      "Bostillos",
       "Illes Columbretes",
       "Universitat-Raval",
     ],
@@ -107,7 +109,6 @@ export const USM_DATA: USMUnit[] = [
       "Almassora",
       "Benicàssim",
       "Orpesa",
-      "Torreblanca",
     ],
     urbanZones: ["Grao"],
   },
